@@ -1,17 +1,5 @@
-<title>ELRO switch AB440R with Arduino </title>
-<meta content="This page describes how to communicate between an Arduino ELRO AB440 switches" name="description" />
-<style type="text/css">
-.auto-style1 {
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.auto-style2 {
-	margin-right: 0px;
-}
-</style>
-<meta content="Arduino 433 Mhz ELRO AB440 Brennenstuhl RCS 1000N" name="keywords" />
-</head>
+### ELRO switch AB440R with Arduino
 
-<body title="Bluetooth BLE HM-10" style="background-color: #FFFFFF">
 
 <h1 class="auto-style1">Control ELRO AB440R switches with Arduino&nbsp; </h1>
 <p class="auto-style1">&lt;-- <a href="../../Woordklok/index.html">Home</a> </p>
