@@ -247,7 +247,7 @@ Using 433MHz Remote Controlled Switches on Arduino : 10 Steps - Instructables</a
 <a href="https://lastminuteengineers.com/433mhz-rf-wireless-arduino-tutorial/">
 Insight Into How 433MHz RF Tx-Rx Modules Work &amp; Interface with Arduino (lastminuteengineers.com)</a></p>
 <p class="auto-style1">
-&lt;-- <a href="../../Woordklok/index.html">Home</a>&nbsp; <br />
+&lt;-- <a href="https://ednieuw.home.xs4all.nl/Woordklok/index.html">Home</a>&nbsp; <br />
 </p>
 <p class="auto-style1">Ed Nieuwenhuys oct 2023</p>
 
