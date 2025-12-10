@@ -1,6 +1,5 @@
 ### ELRO switch AB440R with Arduino
 
-
 <h1 class="auto-style1">Control ELRO AB440R switches with Arduino&nbsp; </h1>
 <p class="auto-style1">
 I have these ELRO AB440R switches (now Brennenstuhl Comfort RCS 1000 N)&nbsp; 
