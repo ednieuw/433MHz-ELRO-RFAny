@@ -2,7 +2,7 @@
 
 # Control ELRO AB440R switches with Arduino  
 
-I have these ELRO AB440R switches (now Brennenstuhl Comfort RCS 1000 N)  
+I have these ELRO AB440R switches (now sold as Brennenstuhl Comfort RCS 1000 N)  
 for more than 10 years but you need the ELRO AB440SC remote controller to switch 
 them On and Off.  
 In the remote control a 433 MHz transmitter is used to send the commands.  
@@ -18,12 +18,12 @@ bought very cheap together
 
 For the ELRO switches to be switched On and Off a specific pulse signal 
 must be sent preceded with an unique switch number.  
-In the ELRO remote control five switches can be set. They must be identical with 
-the five dip switches in the switches. I had the 5 switches all all turned ON.  
-In the switch there are beside the five switches also switches A, B, C, D and E. 
+In the ELRO remote control five dip switches can be set. They must be identical with 
+the five dip switches in the powerswitches. 
+I had the 5 dip switches all all turned ON.  
+In the switch there are beside the five dip switches also dip  switches A, B, C, D and E. 
 These last five identify the switch.  
-The signal send to a switch has as preamble the state of the first 5 switches  
-switches  
+The signal send to a switch has as preamble the state of the first 5 dip switches. 
 For example: mySwitch.switch**On**("11111", "10000"), turns on switch A.  
                         mySwitch.switch**Off**("11111", "10000"), turns on switch A.
 
@@ -35,17 +35,16 @@ coiled, wire gives the best results.
 
 ![All parts](Pics/All-parts-IMG_0915(1).png)
 
-Make to following connections.
+Make the following connections.
 
 On transmitter: Connect GND to GND and VCC to 5V or VIN. Middle pin to D10
 
 On receiver:      Connect GND to GND and VCC to 5V or VIN. One of the two middle pins, 
 both are identical, to D2.  
 
-Antennas exactly  17.3 cm long, (6.8 inch).
+Antennas should be exactly 17.3 cm long (6.8 inches).
 
-Place the switches in the power supply and not in a stack on each other in one power supply 
-(-:.  
+Place the switches in separate power outlets; do not stack them in a single socket. (-: .  
 
 If you power up the Arduino you can hear and see the switches switching.
 
@@ -232,4 +231,3 @@ References:
 
 <-- [Home](https://ednieuw.home.xs4all.nl/Woordklok/index.html)  
 
-Ed Nieuwenhuys oct 2023
