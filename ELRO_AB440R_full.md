@@ -219,9 +219,6 @@ void loop() {
 }
 ```
 
-[All codes and libraries in a Zip](433MHz-ELRO.zip)  
-
-[Manual AB440R](gebruikershandleidingELRO.pdf)
 
 References:
 
