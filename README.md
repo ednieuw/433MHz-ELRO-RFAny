@@ -1,4 +1,3 @@
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <title>ELRO switch AB440R with Arduino </title>
 <meta content="This page describes how to communicate between an Arduino ELRO AB440 switches" name="description" />
 <style type="text/css">
@@ -26,7 +25,7 @@ this works.<br />
 This is a compilation of my research to get the switches working with Arduino's.<br />
 </p>
 <p class="auto-style1">
-<img alt="FS1000-XY-MK-5V" height="418" src="FS1000-XY-MK-5V.png" width="730" /></p>
+<img alt="FS1000-XY-MK-5V" height="418" src="Pics\FS1000-XY-MK-5V.png" width="730" /></p>
 <p class="auto-style1">
 I used the FS1000 transmitter to send the data to the ELRO switch and XY-MK-5V 
 receiver to display the transmitted data on a separate Arduino. They can be 
@@ -52,7 +51,7 @@ The transmitter works fine at 5V. For a large transmission range attach a 17.3
 cm (6.8 inch) wire to the transmitter and receiver. It is said a straight, not 
 coiled, wire gives the best results.</p>
 <p class="auto-style1">
-<img alt="All parts" height="675" src="All-parts-IMG_0915(1).png" width="900" /></p>
+<img alt="All parts" height="675" src="Pics\All-parts-IMG_0915(1).png" width="900" /></p>
 <p class="auto-style1">
 Make to following connections.</p>
 <p class="auto-style1">
@@ -71,11 +70,11 @@ If you power up the Arduino you can hear and see the switches switching.</p>
 <table class="auto-style2">
 	<tr>
 		<td style="width: 218px">
-		<img alt="AB440R front" height="900" src="remote-AB440R.png" width="299" /></td>
+		<img alt="AB440R front" height="900" src="Pics\remote-AB440R.png" width="299" /></td>
 		<td style="width: 295px">
-		<img alt="AB440R" height="900" src="remote-AB440R-back.png" width="287" /></td>
+		<img alt="AB440R" height="900" src="Pics\remote-AB440R-back.png" width="287" /></td>
 		<td style="width: 452px">
-		<img alt="switch AB440SC" height="900" src="Switch-AB440SC.png" width="475" /></td>
+		<img alt="switch AB440SC" height="900" src="Pics\Switch-AB440SC.png" width="475" /></td>
 	</tr>
 	<tr>
 		<td style="width: 218px">&nbsp;</td>
