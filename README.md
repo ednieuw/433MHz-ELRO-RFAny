@@ -2,7 +2,6 @@
 
 
 <h1 class="auto-style1">Control ELRO AB440R switches with Arduino&nbsp; </h1>
-<p class="auto-style1">&lt;-- <a href="../../Woordklok/index.html">Home</a> </p>
 <p class="auto-style1">
 I have these ELRO AB440R switches (now Brennenstuhl Comfort RCS 1000 N)&nbsp; 
 for more than 10 years but you need the ELRO AB440SC remote controller to switch 
