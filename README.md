@@ -226,9 +226,5 @@ References:
 
 [Insight Into How 433MHz RF Tx-Rx Modules Work & Interface with Arduino](https://lastminuteengineers.com/433mhz-rf-wireless-arduino-tutorial/)
 
-<<<<<<< Updated upstream
-<-- [Home](https://ednieuw.nl/Woordklok/index.html)  
-=======
 <-- [Home](https://ednieuw.com/Woordklok/index.html)  
->>>>>>> Stashed changes
 
